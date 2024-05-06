@@ -1,8 +1,8 @@
 ## Commands to execute
 
--install the dependencies using `yarn install`
--do the setup using `yarn setup`
--to fetch the first 20 even todo, run command `fetchtodo`, it should be able to fetch first 20 todo and display the same.
+- install the dependencies using `yarn install`
+- do the setup using `yarn setup`
+- to fetch the first 20 even todo, run command `fetchtodo`, it should be able to fetch first 20 todo and display the same.
 
 # Exercise
 
